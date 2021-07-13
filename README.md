@@ -1,2 +1,2 @@
 # Geographic-Symbols
-Created with CodeSandbox
+Find out the meaning of different symbols present in Geography
