@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: auto 20%;
+  background-color: antiquewhite;
+}
+span {
+  padding: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+input {
+  width: 50%;
+  padding: 2rem;
+}
