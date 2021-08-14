@@ -5,7 +5,12 @@ var flags = {
   "⛰️": "Mountain",
   "🏝️": "Desert Island",
   "🏜️": "Desert",
-  "🏕️": "Camping"
+  "🏕️": "Camping",
+  "🏔️": "Snow Capped Mountain",
+  "🗻": "Mountain Fuji",
+  "🏖️": "Beach with Umbrella",
+  "🏞️": "National Park",
+  "🌏": "Globe Showing Asia & Australia"
 };
 var flagswehave = Object.keys(flags);
 export default function App() {
